@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @MrNayeem27<br>👀 I’m interested in Software Development, Data Science, Testing and Hardware Engineering<br>🌱 I’m currently learning data analytics techniques, machine learning algorithms, deep learning frameworks, cloud computing, and Selenium for automation.<br>🔭 I’m currently working on enhancing my skills and building projects while actively seeking a job in the tech industry.<br>🤝 I’m looking for help with job assistance, optimizing models, and deploying AI solutions.<br>⚡ Fun fact: I have experience in organizing large events as a student coordinator and love environmental conservation work!
+👋 Hi, I’m Mohamed Nayeem N<br>👀 I’m interested in Software Development, Data Science, Testing and Hardware Engineering<br>🌱 I’m currently learning data analytics techniques, machine learning algorithms, deep learning frameworks, cloud computing, and Selenium for automation.<br>🔭 I’m currently working on enhancing my skills and building projects while actively seeking a job in the tech industry.<br>🤝 I’m looking for help with job assistance, optimizing models, and deploying AI solutions.<br>⚡ Fun fact: I have experience in organizing large events as a student coordinator and love environmental conservation work!
 
 
 ## 🌐 Socials:
